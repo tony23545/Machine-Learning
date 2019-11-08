@@ -19,3 +19,4 @@ Human early embryos analysis with RNA sequences. More information can be found o
 
 One of my favorite plots from this project is the following one illustrating the clustering of RNA sequences of embroy cells from different days (different color represents different days). This is the result after PCA and t-sne.  
 
+<img src = https://github.com/tony23545/Machine-Learning/blob/master/final%20project/clustering.png/>
